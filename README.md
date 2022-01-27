@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning assembly language.
+- 📫 How to reach me: s3238382606@163.com
+- ⚡ Fun fact: So far, I'm still a rookie. 😄
